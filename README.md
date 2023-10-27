@@ -1,3 +1,5 @@
+Published Link:- https://www.ijiemr.org/downloads/paper/Volume-12/real-time-object-detection-based-on-single-short-detection-algorithm-using-opencv-framework
+
 This project focuses on real-time object detection in computer vision, employing a pre-trained deep learning model, MobileNet, for efficiency on embedded systems. By capturing webcam images and processing them in real-time, the algorithm detects objects in a video stream, making it a promising solution for accurate and efficient object recognition in various applications.
 In simple terms, the implementation of object detection using MobileNet SSD involves the following steps:
 Open the real-time webcam.
